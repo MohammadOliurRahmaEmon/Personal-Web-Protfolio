@@ -1,0 +1,131 @@
+*{
+    padding:0px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+   margin:0px;
+    width:100%;
+    
+}
+.name-color{
+    color:#E87461;
+}
+.link-decoration{
+    text-decoration: none;
+    background-image:linear-gradient(45deg,tomato,#e87461);
+    color:white;    
+    padding: 10px 20px;
+    border-radius:5px;
+}
+h1{
+    font-size:50px;
+}
+p{
+    width:50%;
+}
+.half-width img{
+    width:100%;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
+    height:100%;
+}
+.half-width p{
+    color: #1B1E23;
+    text-align: justify;
+    width:100%;
+    
+}
+ 
+.experience-side{
+    height:650px;
+    width:100%;
+    clear: both;
+    background-color:whitesmoke;
+    
+}
+.content{
+    text-align: center;
+    padding-top:20px;
+    
+}
+.box img{
+    width:100%;
+}
+.box{
+ box-shadow:10px 10px 40px gray;
+ margin:12px;
+ padding:10px;
+ width:30%;
+ border-radius:10px;
+ height:55%;
+ float: left;
+ 
+
+}
+.box p{
+    text-align:start;
+    color: gray;
+}
+.chat{
+    background-image: url(images/box.png);
+    width: 80%;
+    height:130px;
+    margin-left:130px;
+    padding:5px;
+    padding-top:20px;
+
+    
+}
+.right h1{
+     color:white;
+    float: left;
+    padding:10px;
+    margin-left:100px ;
+    padding-bottom:30px;
+    
+    
+   
+}
+.left{
+    text-align: end;
+    margin-top:68px;
+    padding-right:150px;
+    
+}
+.hello{
+    text-align: center;
+}
+.center{
+    color:#1B1B1B;
+}
+.change{
+    color: orangered;
+}
+.icon{
+    text-align: center;
+}
+.icon1{
+    width:1%;
+    padding:6px;
+}
+footer{
+    padding:20px;
+}
+.hi{
+    color:orangered;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.form{
+    border:5px solid black;
+    width:28%;
+    height:200px;
+    margin: 0 auto;
+    padding-bottom:50px;
+    box-shadow: 10px 10px 40px;
+}
